@@ -1,0 +1,12 @@
+﻿<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#f7d6e6" />
+      <stop offset="1" stop-color="#ef6f91" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g3)" />
+  <circle cx="160" cy="180" r="130" fill="#fff6fb" fill-opacity="0.6" />
+  <path d="M90 470 C210 430 280 520 430 460 C560 410 680 450 760 420" fill="none" stroke="#4d1f2a" stroke-width="18" stroke-linecap="round" />
+  <text x="70" y="120" font-family="Space Grotesk, Arial" font-size="40" fill="#4d1f2a">Pasta al limon</text>
+</svg>

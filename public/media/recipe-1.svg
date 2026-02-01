@@ -1,0 +1,12 @@
+﻿<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb56b" />
+      <stop offset="1" stop-color="#f15b2a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g1)" />
+  <circle cx="620" cy="160" r="120" fill="#fff3e0" fill-opacity="0.55" />
+  <path d="M80 460 C200 380 320 500 480 420 C580 370 700 410 760 360" fill="none" stroke="#2b1f16" stroke-width="18" stroke-linecap="round" />
+  <text x="70" y="120" font-family="Space Grotesk, Arial" font-size="44" fill="#2b1f16">Desayuno rapido</text>
+</svg>

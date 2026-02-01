@@ -1,0 +1,12 @@
+﻿<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd6a5" />
+      <stop offset="1" stop-color="#7fd3a4" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g4)" />
+  <rect x="560" y="60" width="180" height="180" rx="40" fill="#fff6e5" fill-opacity="0.6" />
+  <path d="M110 430 C220 360 300 460 480 420 C590 390 690 420 760 380" fill="none" stroke="#3b3b1f" stroke-width="16" stroke-linecap="round" />
+  <text x="70" y="120" font-family="Space Grotesk, Arial" font-size="40" fill="#3b3b1f">Ensalada fresca</text>
+</svg>

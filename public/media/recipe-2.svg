@@ -1,0 +1,12 @@
+﻿<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ad7c8" />
+      <stop offset="1" stop-color="#2c7a7b" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g2)" />
+  <rect x="520" y="80" width="200" height="200" rx="32" fill="#e8fff7" fill-opacity="0.65" />
+  <path d="M120 420 C240 360 340 450 520 400 C620 370 700 380 740 340" fill="none" stroke="#0f3d3e" stroke-width="16" stroke-linecap="round" />
+  <text x="70" y="120" font-family="Space Grotesk, Arial" font-size="40" fill="#0f3d3e">Bowl mediterraneo</text>
+</svg>

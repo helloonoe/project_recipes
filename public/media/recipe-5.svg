@@ -1,0 +1,12 @@
+﻿<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g5" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffdbe0" />
+      <stop offset="1" stop-color="#ffa552" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g5)" />
+  <circle cx="620" cy="150" r="110" fill="#fff1e7" fill-opacity="0.6" />
+  <path d="M90 450 C210 390 300 500 460 430 C580 390 690 420 760 370" fill="none" stroke="#4a2b1c" stroke-width="18" stroke-linecap="round" />
+  <text x="70" y="120" font-family="Space Grotesk, Arial" font-size="40" fill="#4a2b1c">Wrap de pollo</text>
+</svg>
